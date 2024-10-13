@@ -1,0 +1,14 @@
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.exe
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.deps.json
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.runtimeconfig.json
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.runtimeconfig.dev.json
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.dll
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\bin\Debug\netcoreapp3.1\JoyCastleTest.pdb
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.csproj.AssemblyReference.cache
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.AssemblyInfoInputs.cache
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.AssemblyInfo.cs
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.csproj.CoreCompileInputs.cache
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.dll
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.pdb
+C:\Users\16751\source\repos\JoyCastleTest\JoyCastleTest\obj\Debug\netcoreapp3.1\JoyCastleTest.genruntimeconfig.cache

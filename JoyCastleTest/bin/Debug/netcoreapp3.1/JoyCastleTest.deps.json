@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "JoyCastleTest/1.0.0": {
+        "runtime": {
+          "JoyCastleTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JoyCastleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
